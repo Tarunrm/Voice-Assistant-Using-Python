@@ -21,7 +21,7 @@ The first step of the process is to understand the speech of the speaker. The so
 
 Companies use the pre-speech recognition technique for this step. User’s words are broken down into groups by the AI. In the process, the words are converted into bits that are easily understandable by the system. 
 
-Learn how Verloop.io Improved its ASR accuracy with error correction techniques here.
+
 
 2. Filtering ambient sounds
 There are chances that in addition to the words spoken by the user, some ambient sound is picked up by the AI. Say connecting with a call centre while on the road can increase the chances of recording the surrounding disturbances like horns or announcements going on in the message.
@@ -33,7 +33,7 @@ The voice AI is based on the neural networks that replicate the neurons in a hum
 
 Reading and analysing every single letter of the message, the AI tries to analyze the sentence’s meaning and match it with the best possible outcomes.
 
-Suggested Reading: Ask 3 questions when someone says their Chatbot is AI-Powered Chatbot
+
 
 4. Syntactic and semantic techniques 
 The voice AI is now ready to act. Using syntactic and semantic techniques for analysing text, the AI gets a deeper understanding of the context under consideration.
