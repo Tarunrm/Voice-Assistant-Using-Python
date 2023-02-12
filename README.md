@@ -11,7 +11,6 @@ The voice AI assistants, namely Amazon Echo, Siri, Google Assistant, Google Home
 
 With the increasing use of the voice AI platform, one is curious to know how does voice recognition work? Understanding how voice control technology work is essential to know the key factors to tackle while adopting voice AI.
 
-Suggested Reading: 5 Tips on How to Leverage Voicebot to Improve User Experience
 
 The basic working of voice AI
 The voice AI is based on understanding the human language and interpreting the same to offer appropriate results. AI programming perfects its algorithms to constantly provide the best rational answer. A mixture of AI and automation helps develop speech systems.
